@@ -1,4 +1,4 @@
-# docker-compose-project
+# Docker-compose-project
 # Three-Tier Application Deployment using Docker Compose
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/osagie-anolu-963b78216/)
 [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/nolunchbreaks)
@@ -38,5 +38,5 @@ Before you begin, make sure you have the following installed:
     -docker-compose up -d
   ![Screenshot (6)](https://github.com/user-attachments/assets/096afa1d-f447-4a28-aedb-48c6ebbfe583)
 
-# Access the Application: Open your favorite browser and visit http://localhost:80. Explore the MERN stack application!
+# Access the Application: Open your favorite browser and visit http://localhost:80. Explore the MERN stack application! 
 ![Screenshot (7)](https://github.com/user-attachments/assets/1fa236e5-af10-416f-8e45-f042a05cce14)
