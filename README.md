@@ -32,7 +32,7 @@ Before you begin, make sure you have the following installed:
 - Clone the Repository:
 
 - git clone https://github.com/devcloudninjas/docker_handson_projects.git
-  -cd docker-compose
+  - cd docker-compose
 
 - Build and Run Docker Containers: Use Docker Compose to build and run all containers:
     -docker-compose up -d
